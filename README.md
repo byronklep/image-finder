@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Frontend [React] (https://reactjs.org/) app that utilizes the [PixaBay API] (https://pixabay.com/api) and is styled with [Material UI] (https://material-ui.com).
+Frontend [React](https://reactjs.org/) app that utilizes the [PixaBay API](https://pixabay.com/api) and is styled with [Material UI](https://material-ui.com).
 
 ## Available Scripts
 
